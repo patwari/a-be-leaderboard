@@ -2,5 +2,14 @@
   "editor.codeLens": true,
   "editor.formatOnSave": true,
   "python.terminal.activateEnvironment": true,
-  "python.defaultInterpreterPath": "venv/bin/python"
+  "python.defaultInterpreterPath": "venv/bin/python",
+  "cSpell.words": [
+    "autoflush",
+    "dotenv",
+    "PYTHONDONTWRITEBYTECODE",
+    "PYTHONUNBUFFERED",
+    "sessionmaker",
+    "sqlalchemy",
+    "uvicorn"
+  ]
 }

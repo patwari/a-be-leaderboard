@@ -1,4 +1,4 @@
-## Initial Setup
+## Stage 01: Initial Setup
 
 1. Setup folder structure
     ```bash
